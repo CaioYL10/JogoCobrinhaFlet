@@ -1,0 +1,7 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Seu recorde e suas skins: pessoal, não vai para o repositório.
+progresso.json
